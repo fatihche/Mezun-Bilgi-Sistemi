@@ -1,0 +1,18 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.exe.config
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.exe
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.pdb
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.Form1.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.Properties.Resources.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.csproj.GenerateResource.Cache
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.exe
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.pdb
+C:\Users\toshiba\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.exe.config
+C:\Users\toshiba\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.exe
+C:\Users\toshiba\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.pdb
+C:\Users\toshiba\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.exe
+C:\Users\toshiba\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.pdb
+C:\Users\toshiba\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.Form1.resources
+C:\Users\toshiba\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.Properties.Resources.resources
+C:\Users\toshiba\Desktop\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.csproj.GenerateResource.Cache
